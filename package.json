@@ -1,10 +1,9 @@
 {
   "name": "vue-vapor-upload-component",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Vue upload component for use with Laravel Vapor",
   "private": false,
   "main": "src/VueVaporUploadComponent.vue",
-  "keywords": ["thunderbite", "vue", "vapor", "uploader"],
   "repository": "thunderbite/vue-vapor-upload-component",
   "files": [
     "src/*",
