@@ -60,7 +60,7 @@ export default {
         uploadSuccesMessage: {
             type: String,
             required: false,
-            default: 'The upload was succcessful',
+            default: 'The upload was successful',
         }, 
     },
 
