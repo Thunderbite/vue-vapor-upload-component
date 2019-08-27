@@ -3,9 +3,11 @@
 ## Installation
 npm install vue-vapor-upload-component
 
-## Usage
+```
+import VueVaporUploadComponent from 'vue-vapor-upload-component'
+```
 
-Using this component can be done with this snippet:
+## Usage
 
 ```
 <vue-vapor-upload-component
