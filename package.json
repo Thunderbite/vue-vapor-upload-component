@@ -1,15 +1,8 @@
 {
   "name": "@thunderbite/vue-vapor-upload-component",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "Vue upload component for use with Laravel Vapor",
-  "private": false,
   "main": "src/VueVaporUploadComponent.vue",
-  "repository": "thunderbite/vue-vapor-upload-component",
-  "files": [
-    "src/*",
-    "*.json",
-    "*.js"
-  ],
   "dependencies": {
     "axios": "^0.19.0",
     "laravel-vapor": "^0.1.5",
@@ -17,5 +10,18 @@
   },
   "devDependencies": {
     "vue-template-compiler": "^2.6.10"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thunderbite/vue-vapor-upload-component.git"
+  },
+  "author": "Thunderbite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thunderbite/vue-vapor-upload-component/issues"
+  },
+  "homepage": "https://github.com/Thunderbite/vue-vapor-upload-component#readme"
 }
