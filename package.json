@@ -1,5 +1,5 @@
 {
-  "name": "vue-vapor-upload-component",
+  "name": "@thunderbite/vue-vapor-upload-component",
   "version": "1.0.5",
   "description": "Vue upload component for use with Laravel Vapor",
   "private": false,
