@@ -4,7 +4,7 @@
   "description": "Vue upload component for use with Laravel Vapor",
   "main": "src/VueVaporUploadComponent.vue",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "laravel-vapor": "^0.1.7",
     "vue": "^2.6.11"
   },
